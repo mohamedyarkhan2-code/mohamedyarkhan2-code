@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/mohamedyarkhan2-code/mohamedyarkhan2-code/main/profile.jpg" width="180" alt="Mohamed Yarkhan">
-
 # 👋 Hi, I'm Mohamed Yarkhan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer" alt="MERN Stack Developer">
